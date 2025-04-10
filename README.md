@@ -1,4 +1,4 @@
-### Hi there 👋
+### Love using AI + ML to solve real world problems.
 
 <!--
 **wade-ary/wade-ary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
