@@ -1,16 +1,23 @@
-## Solving Problems
+Aryaman Wade
 
-<!--
-**wade-ary/wade-ary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science & Mathematics student at Northeastern University with a focus on AI/ML data analytics. 
 
-Here are some ideas to get you started:
+Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: xe/xim 
-- ⚡ Fun fact: ...
--->
+Business Intelligence & Analytics Co-op, CDP (Boston, MA)
+Worked on predictive ML models for donor retention and giving behavior, optimized SQL pipelines in Snowflake. 
+Applied statistical analysis (ANOVA, Kruskal–Wallis, t-tests) to identify behavioral patterns and support feature selection.
+
+Projects
+
+Reinforcement Learning Agent for Generals.io ([Repository](https://github.com/aryamanwade/generals-ai)| [Report](https://drive.google.com/file/d/1KUvGMwJkPsz-Hczu0mFMBCC4iljwj6bG/view))
+Built RL agents using Deep Q-Networks (DQN) and Policy Gradients, training on 3,000+ matches with self-play. 
+Achieved a 60% win rate with the Policy Gradient agent, outperforming a DQN baseline in a sparse reward environment.
+
+AI Agent for Multi-Domain Research ([Repository](https://github.com/aryamanwade/query-engine))
+Developed a Retrieval-Augmented Generation (RAG) pipeline that retrieves and synthesizes papers from PubMed, Semantic Scholar, and OpenAlex. 
+Used domain-specific embeddings (S-PubMedBERT, Specter, MPNet), FAISS for scalable retrieval, and LlamaIndex re-ranking for high-quality summaries.
+
+Multimodal Social Media Popularity Prediction ([Repository](https://github.com/aryamanwade/SocialMediaPrediction))
+Designed a Deep & Cross Neural Network (DCN) to predict engagement with an MSE of 0.158 by combining video, text, and metadata features. 
+Integrated XCLIP embeddings for video–caption pairs and engineered feature interactions to capture multimodal drivers of virality.
