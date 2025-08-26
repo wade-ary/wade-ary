@@ -2,14 +2,14 @@ Hi, I’m Aryaman Wade
 
 I’m a Computer Science & Mathematics student at Northeastern University with a focus on AI/ML data analytics. 
 
-Experience
+## Experience
 
 Business Intelligence & Analytics Co-op, CDP (Boston, MA)
 
 Worked on predictive ML models for donor retention and giving behavior, optimized SQL pipelines in Snowflake. 
 Applied statistical analysis (ANOVA, Kruskal–Wallis, t-tests) to identify behavioral patterns and support feature selection.
 
-Projects
+## Projects
 
 Reinforcement Learning Agent for Generals.io ([Repository](https://github.com/wade-ary/generals-ai) | [Report](https://drive.google.com/file/d/1KUvGMwJkPsz-Hczu0mFMBCC4iljwj6bG/view))
 
