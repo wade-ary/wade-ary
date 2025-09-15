@@ -13,8 +13,8 @@ Applied statistical analysis (ANOVA, Kruskal–Wallis, t-tests) to identify beha
 
 **Reinforcement Learning Agent for Generals.io ([Repository](https://github.com/wade-ary/generals-ai) | [Report](https://drive.google.com/file/d/1KUvGMwJkPsz-Hczu0mFMBCC4iljwj6bG/view))**
 
-- Built RL agents using Deep Q-Networks (DQN) and Policy Gradients, training on 3,000+ matches with self-play. 
-Achieved a 60% win rate with the Policy Gradient agent, outperforming a DQN baseline in a sparse reward environment.
+- Built RL agents using Deep Q-Networks (DQN) and Proximal Policy optimisation (PPO), training on 3,000+ matches with self-play. 
+Achieved a 60% win rate with the PPO agent, outperforming DQN in a sparse reward environment.
 
 **AI Agent for Multi-Domain Research ([Repository](https://github.com/wade-ary/query-engine))**
 
