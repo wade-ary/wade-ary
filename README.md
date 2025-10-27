@@ -21,6 +21,3 @@ Achieved a 60% win rate with the PPO agent, outperforming DQN in a sparse reward
 - Designed a Deep & Cross Neural Network (DCN) to predict engagement with an MSE of 0.158 by combining video, text, and metadata features. 
 Integrated XCLIP embeddings for video–caption pairs and engineered feature interactions to capture multimodal drivers of virality.
 
-**Domain Specific LLM for GPU Error Debugging ([Repository](https://github.com/wade-ary/gpu-error-analysis))**
-
-- Fine-tuned GPT-OSS-120B model on a curated dataset of GPU error logs, delivering fast, actionable debugging guidance for developers.
