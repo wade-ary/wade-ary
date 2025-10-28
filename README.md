@@ -16,8 +16,5 @@ Applied statistical analysis (ANOVA, Kruskal–Wallis, t-tests) to identify beha
 - Built RL agents using Deep Q-Networks (DQN) and Proximal Policy optimisation (PPO), training on 3,000+ matches with self-play. 
 Achieved a 60% win rate with the PPO agent, outperforming DQN in a sparse reward environment.
 
-**Multimodal Social Media Popularity Prediction ([Repository](https://github.com/wade-ary/SocialMediaPrediction))**
 
-- Designed a Deep & Cross Neural Network (DCN) to predict engagement with an MSE of 0.158 by combining video, text, and metadata features. 
-Integrated XCLIP embeddings for video–caption pairs and engineered feature interactions to capture multimodal drivers of virality.
 
