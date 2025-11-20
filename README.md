@@ -1,6 +1,7 @@
 ## Hi, I’m Aryaman Wade
 
-I’m a Computer Science & Mathematics student at Northeastern University with a focus on AI/ML Engineering.
+Computer Science & Mathematics at Northeastern University 
+
 
 ## Experience
 
