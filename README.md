@@ -14,11 +14,11 @@ I’m a Computer Science & Mathematics student at Northeastern University with a
 
 - Deep-Q Network (DQN) and Proximal Policy Optimization (PPO) reinforcement learning agents for a multiplayer strategy game.
 
-**Retrieval Augmented Generation (RAG) Agent for Literature Review ([Repository](https://github.com/wade-ary/sci-rag)**
+**Retrieval Augmented Generation (RAG) Agent for Literature Review ([Repository](https://github.com/wade-ary/sci-rag))**
 
 - AI agent for academic literature review using LangChain and Retrieval-Augmented Generation (RAG).
 
-**Engagement Prediction Using Deep & Cross Neural Networks ([Repository](https://github.com/wade-ary/SocialMediaPrediction)**
+**Engagement Prediction Using Deep & Cross Neural Networks ([Repository](https://github.com/wade-ary/SocialMediaPrediction))**
 
 - Engagement prediction for social media posts using Deep & Cross Neural Networks with the Social Media Prediction (SMP) challenge dataset.
 
