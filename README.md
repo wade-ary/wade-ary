@@ -1,8 +1,11 @@
 ## Hi, I’m Aryaman Wade
 
-Computer Science & Mathematics at Northeastern University /n
+Computer Science & Mathematics at Northeastern University 
+
 Languages : Python | SQL | R | Java
+
 Tools: Scikit-learn | XGBoost | Pandas | PyTorch | Snowflake | AWS | LangGraph | HuggingFace | Tableau 
+
 ## Experience
 
 **Data Science Co-op, CDP (Boston, MA)**
