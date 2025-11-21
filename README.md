@@ -17,7 +17,7 @@ Computer Science & Mathematics at Northeastern University
 
 **Retrieval Augmented Generation (RAG) Agent for Literature Review ([Repository](https://github.com/wade-ary/sci-rag))**
 
-- AI agent for academic literature review using LangChain and Retrieval-Augmented Generation (RAG).
+- AI agent for academic literature review using LangGraph and Retrieval-Augmented Generation (RAG).
 
 **Engagement Prediction Using Deep & Cross Neural Networks ([Repository](https://github.com/wade-ary/SocialMediaPrediction))**
 
